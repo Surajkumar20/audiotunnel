@@ -1,0 +1,5 @@
+# ninja log v7
+5	248	8109320613043950	CMakeFiles/audiotunnel.dir/audiotunnel.c.obj	19b186b605bf1802
+249	630	8109320615494001	audiotunnel.exe	b239260f56bc8ba0
+6	117	8109321351011511	CMakeFiles/audiotunnel.dir/resources.rc.res	dccb210f44b0acad
+117	345	8109321352130657	audiotunnel.exe	82ac171e49edc85e
